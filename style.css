@@ -1,0 +1,55 @@
+body {
+  background: #777;
+  color: #777;
+  font: 18px/2 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  margin: 0 auto;
+  width: 960px;
+}
+
+.site {
+  padding: 2em 0 0;
+}
+
+header,
+nav,
+section,
+aside,
+footer {
+  background: #ebebeb;
+  padding: 1em;
+  margin: 0 0 .33em;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+section {
+  margin-right: .33em;
+  width: 495px;
+}
+
+aside {
+  width: 465px;
+}
+
+article {
+  background: #777;
+  color: #ebebeb;
+  padding: 0 0 .33em;
+}
+
+h1,
+h2,
+h3,
+p {
+  background: #ebebeb;
+  color: #777;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+p {
+  margin-bottom: .33em;
+}
